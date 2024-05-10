@@ -1,5 +1,7 @@
 # 3k-tiny-gallery
 
+gallery for 3k-tiny-game
+
 ## Project setup
 ```
 npm install
